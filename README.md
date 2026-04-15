@@ -10,9 +10,7 @@
 
 - [📌 Context](#-context)
 - [📌 Project Overview](#-project-overview)
-- [🧠 Methodology](#-methodology)
 - [🏫 Institution](#-institution)
-- [📂 Outputs](#-outputs)
 - [📬 Contact](#-contact)
 
 ---
