@@ -27,7 +27,7 @@ This project implements an **Operational Modal Analysis workflow** based on the 
 
 The MATLAB script `MAIN_pLSCF.m` includes two main modes:
 
----
+
 
  🧩 POLES_DETECTION
 
@@ -36,7 +36,7 @@ This mode:
 - Displays an interactive stabilization diagram
 - Allows manual selection of physical poles
 
----
+
 
  🧩 MODAL_SHAPES
 
@@ -44,14 +44,13 @@ This mode:
 - Computes complex mode shapes
 - Evaluates consistency using the **Modal Assurance Criterion (MAC)**
 
----
 
 # 🏫 Institution
 
 Developed at:  
 **École de technologie supérieure (ÉTS), Montréal, Canada**
 
----
+
 
 # 🚀 Getting Started – User Guide
 
