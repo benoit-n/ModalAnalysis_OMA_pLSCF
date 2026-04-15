@@ -4,7 +4,6 @@
 ![Toolbox](https://img.shields.io/badge/Required-Signal%20Processing%20Toolbox-orange)
 ![Status](https://img.shields.io/badge/status-research--project-green)
 
----
 
 # 📌 Context
 
@@ -19,7 +18,6 @@ The method provides:
 - Damping ratios
 - Complex mode shapes
 
----
 
 # 📌 Project Overview
 
