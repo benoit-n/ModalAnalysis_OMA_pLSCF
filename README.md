@@ -208,6 +208,6 @@ You can adjust:
 
 for further analyses.
 
-# 📬 Contact & Questions
+# 📬 Contact
 
 If you have any questions or suggestions, please feel free to open an issue or contact the author.
