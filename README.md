@@ -45,8 +45,7 @@ This mode:
 
 # 🏫 Institution
 
-Developed at:  
-**École de technologie supérieure (ÉTS), Montréal, Canada**
+Developed as part of a Master’s research project in Mechanical Engineering at **École de technologie supérieure (ÉTS)**, Montréal, Canada.
 
 
 
