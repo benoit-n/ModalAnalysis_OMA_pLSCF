@@ -4,6 +4,18 @@
 ![Toolbox](https://img.shields.io/badge/Required-Signal%20Processing%20Toolbox-orange)
 ![Status](https://img.shields.io/badge/status-research--project-green)
 
+---
+
+# 📑 Table of Contents
+
+- [📌 Context](#-context)
+- [📌 Project Overview](#-project-overview)
+- [🧠 Methodology](#-methodology)
+- [🏫 Institution](#-institution)
+- [📂 Outputs](#-outputs)
+- [📬 Contact](#-contact)
+
+---
 
 # 📌 Context
 
@@ -197,3 +209,7 @@ You can adjust:
 - Reference channels
 
 for further analyses.
+
+# 📬 Contact & Questions
+
+If you have any questions or suggestions, please feel free to open an issue or contact the author.
