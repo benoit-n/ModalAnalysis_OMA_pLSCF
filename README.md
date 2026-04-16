@@ -215,7 +215,7 @@ for further analyses.
 
 The detailed academic report associated with this project is available in a dedicated branch:
 
-👉 [View academic report](https://github.com/benoit-n/REPO/tree/main-report)
+👉 [View academic report](https://github.com/benoit-n/ModalAnalysis_OMA_pLSCF/tree/main-report)
 
 This document, written in French, provides theoretical background, methodology, and experimental results.
 
