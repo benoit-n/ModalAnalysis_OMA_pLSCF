@@ -12,6 +12,7 @@
 - [📌 Project Overview](#-project-overview)
 - [🏫 Institution](#-institution)
 - [🚀 Getting Started – User Guide](#-getting-started--user-guide)
+- [📘 Academic Report](#-Academic-Report)
 - [📬 Contact](#-contact)
 
 ---
@@ -211,7 +212,7 @@ You can adjust:
 
 for further analyses.
 
-## 📘 Academic Report
+# 📘 Academic Report
 
 The detailed academic report associated with this project is available in a dedicated branch:
 
