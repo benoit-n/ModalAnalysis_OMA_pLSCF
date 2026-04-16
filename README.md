@@ -211,6 +211,14 @@ You can adjust:
 
 for further analyses.
 
+## 📘 Academic Report
+
+The detailed academic report associated with this project is available in a dedicated branch:
+
+🔗 https://github.com/USERNAME/REPOSITORY/tree/main+Report
+
+This document, written in French, provides theoretical background, methodology, and experimental results.
+
 # 📬 Contact
 
 If you have any questions or suggestions, please feel free to open an issue or contact the author.
