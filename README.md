@@ -53,12 +53,11 @@ This mode:
 - Computes complex mode shapes
 - Evaluates consistency using the **Modal Assurance Criterion (MAC)**
 
-![Stabilization Diagram]([Screenshot 2026-04-16 102023.png](https://github.com/user-attachments/assets/f1a3661b-0be3-402e-9dd2-f5dbb550cbc1))
+![Stabilization Diagram](https://github.com/user-attachments/assets/f1a3661b-0be3-402e-9dd2-f5dbb550cbc1)
 
 # 🏫 Institution
 
 Developed as part of a Master’s research project in Mechanical Engineering at **École de technologie supérieure (ÉTS)**, Montréal, Canada.
-
 
 
 # 🚀 Getting Started – User Guide
