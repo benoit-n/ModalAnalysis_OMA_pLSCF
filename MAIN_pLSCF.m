@@ -124,8 +124,8 @@ try
                               min_frequency, max_frequency, n_impact, ref);
 catch ME
     % Display informative error message if memory allocation fails
-    fprintf(['\n=====================================================\n', 'ERROR during PSD computation for MODAL SHAPES (GYY_calc_PPS).\n\n', 'The frequency band is too large.\n', ...
-         'This may cause excessive memory allocation.\n\n', 'Please reduce the frequency band at line 120.\n', 'Ensure the band still includes all selected modes.\n\n','=====================================================\n\n']);
+    fprintf(['\n=====================================================\n', 'ERROR during PSD computation\n', 'The frequency band is too large.\n', ...
+         'This may cause excessive memory allocation.\n\n', 'Please reduce the frequency band in the user inputs or adjust it at line 109 for the MODAL SHAPES mode.\n', 'Ensure the band still includes all selected modes.\n\n','=====================================================\n\n']);
     return
 end
 PSD_final = PSD_mean;
