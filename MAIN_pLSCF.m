@@ -33,9 +33,6 @@ addpath('./Records');
 addpath('./Main_functions');
 addpath('./Results');
 
-% Disable beep
-beep off;
-
 % Start timer
 tic;
 
@@ -220,30 +217,10 @@ case "POLES_DETECTION"
     coherence_table = compute_multiImpactCoherence(table_name, fs, sensor_1, sensor_2, ...
         min_frequency,max_frequency);
 
-    %% A RETIRER 
-    % coherence_wrist(table_name, fs, n_impact, min_frequency, max_frequency);
-
     %% ===== Poles computation =====
     % Temporarily disable warnings related to nearly singular matrices
     % (commonly encountered during matrix inversion or numerical solving in modal identification)
     w = warning('off','MATLAB:nearlySingularMatrix');
-
-    % A=PSD_final;
-    % cond_list = zeros(size(A,1),1);  % pour stocker le conditionnement de chaque matrice
-    % epsilon = 1e-12;        % très petite régularisation
-    % threshold = 1e6;        % si cond > 1e6, alors régulariser
-    % 
-    % for i = 1:size(A,1)
-    %     Ai = squeeze(A(i,:,:));
-    %     if cond(Ai) > threshold
-    %         Ai = Ai + epsilon*eye(size(Ai));
-    %         A(i,:,:) = Ai;
-    %     end
-    % end
-    % PSD_final=A;
-    % 
-    
-
 
     % Identify system poles from PSD data
     [Dic_total,poles] = identify_poles(order_max,n_ref,n_output,min_frequency,max_frequency,fs,f,PSD_final);
