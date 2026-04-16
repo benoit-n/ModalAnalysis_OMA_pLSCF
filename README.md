@@ -211,4 +211,4 @@ for further analyses.
 
 # 📬 Contact
 
-If you have any questions or suggestions, please feel free to open an issue or contact the author.
+If you have any questions or suggestions, please feel free to open an issue or contact me.
