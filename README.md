@@ -53,6 +53,7 @@ This mode:
 - Computes complex mode shapes
 - Evaluates consistency using the **Modal Assurance Criterion (MAC)**
 
+![Stabilization Diagram](Screenshot 2026-04-16 102023.png)
 
 # 🏫 Institution
 
